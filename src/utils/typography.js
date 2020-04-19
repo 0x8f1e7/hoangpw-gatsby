@@ -4,8 +4,8 @@ import theme from 'typography-theme-bootstrap'
 theme.baseFontSize = '18px'
 theme.baseLineHeight = 1.75
 theme.headerWeight = 'bold'
-theme.headerFontFamily = ['IBM Plex Sans', 'sans-serif']
-theme.bodyFontFamily = ['IBM Plex Serif', 'serif']
+theme.headerFontFamily = ['Georgia', 'serif']
+theme.bodyFontFamily = ['Georgia', 'serif']
 theme.overrideThemeStyles = ({ scale }) => ({
   a: {
     color: `rgba(0,0,0,0.77)`,
