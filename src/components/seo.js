@@ -50,10 +50,10 @@ const SEO = ({ description, lang, meta, title }) => {
           property: `og:description`,
           content: metaDescription,
         },
-        {
-          property: `og:image`,
-          content: `https://i.imgur.com/BxoL3qe.jpg`,
-        },
+        //{
+          //property: `og:image`,
+          //content: `https://i.imgur.com/BxoL3qe.jpg`,
+        //},
         {
           property: `og:type`,
           content: `website`,
