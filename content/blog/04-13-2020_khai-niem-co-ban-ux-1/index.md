@@ -14,7 +14,7 @@ Ok giờ bắt đầu với từng khái niệm cơ bản nhé!
 
 Cũng khá liên quan đến UX, vì tiêu đề trùng tên một trang web mình biết nên giới thiệu với mọi người trang này luôn: [https://uxlagi.com](https://uxlagi.com/)
 
-[https://miro.medium.com/max/3404/0*gSpqytntb__BM35_](https://miro.medium.com/max/3404/0*gSpqytntb__BM35_)
+![](https://miro.medium.com/max/3404/0*gSpqytntb__BM35_)
 
 Đây là một trang blog chia sẻ kinh nghiệm của anh Việt Anh, hiện đang làm việc tại Google, các bài viết trên này rất đáng đọc, mỗi chủ đề về UX anh viết đều có liên hệ ra đời sống thực tế khá hay, mình chưa bỏ qua một bài nào trên này cả 😄
 
