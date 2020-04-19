@@ -8,33 +8,33 @@ Vừa rồi, mình bất ngờ được anh [Việt Anh](https://www.facebook.co
 
 Ấn tượng đầu tiên của mình với anh Việt Anh là anh ấy mặc một chiếc áo dài trông rất Việt Nam, nhìn bảnh phết! Bắt đầu buổi gặp mặt, anh kể về những chuyến đi du lịch, gặp gỡ những người cùng làm về thiết kế từ nhiều đất nước khác nhau, Mexico là một ví dụ. Câu chuyện về chuyến đi được dẫn dắt chậm dãi, điếm nhấn là những cuộc nói chuyện với những chuyên gia thiết kế bản địa nhằm tìm hiểu phong cách thiết kế tại đất nước này. Anh ấy rất cẩn thận chụp ảnh lại để làm tư liệu cũng như mang ví dụ về tận Việt Nam để chia sẻ cho mọi người
 
-![https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/p720x720/51270094_1142023022633197_2519805206019964928_o.jpg?_nc_cat=111&_nc_sid=32a93c&_nc_ohc=yJI2-dbf6GEAX-jPSqY&_nc_ht=scontent.fhan2-3.fna&_nc_tp=6&oh=9fded4de06679ab9d0f919e3a26a4585&oe=5E929AA5](https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/p720x720/51270094_1142023022633197_2519805206019964928_o.jpg?_nc_cat=111&_nc_sid=32a93c&_nc_ohc=yJI2-dbf6GEAX-jPSqY&_nc_ht=scontent.fhan2-3.fna&_nc_tp=6&oh=9fded4de06679ab9d0f919e3a26a4585&oe=5E929AA5)
+![](./images/shampoo.jpg)
 
 Một chai dầu gội đầu sản xuất tại Pháp được anh Việt Anh mang về để làm ví dụ cho thiết kế đẹp, mang chất "Pháp".
 
-![https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/p720x720/51395668_1142023179299848_3852441087322882048_o.jpg?_nc_cat=102&_nc_sid=32a93c&_nc_ohc=neqg21UxDkcAX92FUqw&_nc_ht=scontent.fhan2-1.fna&_nc_tp=6&oh=e090c63d7b60f3e2f0e357845f341003&oe=5E91CABE](https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/p720x720/51395668_1142023179299848_3852441087322882048_o.jpg?_nc_cat=102&_nc_sid=32a93c&_nc_ohc=neqg21UxDkcAX92FUqw&_nc_ht=scontent.fhan2-1.fna&_nc_tp=6&oh=e090c63d7b60f3e2f0e357845f341003&oe=5E91CABE)
+![](./images/chocolate.jpg)
 
 Thiết kế bao bì của một phong kẹo sô cô la. Nhìn đã muốn mua rồi!
 
-![https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/p720x720/51191929_1142023359299830_8128434544954048512_o.jpg?_nc_cat=102&_nc_sid=32a93c&_nc_ohc=jDc8uCo2oTMAX8GUOR0&_nc_ht=scontent.fhan2-1.fna&_nc_tp=6&oh=06199fc5e03e3367a6d8aa8bdccd9609&oe=5E80C3FB](https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/p720x720/51191929_1142023359299830_8128434544954048512_o.jpg?_nc_cat=102&_nc_sid=32a93c&_nc_ohc=jDc8uCo2oTMAX8GUOR0&_nc_ht=scontent.fhan2-1.fna&_nc_tp=6&oh=06199fc5e03e3367a6d8aa8bdccd9609&oe=5E80C3FB)
+![](./images/tea.jpg)
 
 Thiết kế của một gói trà tại Google nhưng lại không có hình ảnh trà. Đặc trưng của thiết kế hiện đại, tối giản!
 
-![https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/p720x720/51480969_1142027419299424_3543990855545126912_o.jpg?_nc_cat=101&_nc_sid=32a93c&_nc_ohc=O_YsVa6YUyQAX-kG05j&_nc_ht=scontent.fhan2-1.fna&_nc_tp=6&oh=fe3de9d6e4802c5fbb08be8a036e67cc&oe=5E8F6559](https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/p720x720/51480969_1142027419299424_3543990855545126912_o.jpg?_nc_cat=101&_nc_sid=32a93c&_nc_ohc=O_YsVa6YUyQAX-kG05j&_nc_ht=scontent.fhan2-1.fna&_nc_tp=6&oh=fe3de9d6e4802c5fbb08be8a036e67cc&oe=5E8F6559)
+![](./images/blindgirls.jpg)
 
 Thiết kế của một cô gái bị trầm cảm người Hàn Quốc kể về cách cô ấy tiếp nhận thông tin. Ảnh do anh VA chụp.
 
 Thứ cô đọng lại nhiều nhất trong trí nhớ của mình về câu chuyện của anh Việt Anh là cách người bản địa Mexico sử dụng những hình ảnh rất gần gũi trong các thiết kế của họ, có thể kể đến việc sử dụng hình ảnh cây ngô trong bức tranh ở một nhà hàng nổi tiếng, ngô là một sản vật mà theo như anh Việt Anh chia sẻ là "quốc hồn, quốc túy" của nơi đây. Hay là hình ảnh chiếc bánh Taco được làm khác biệt đi bằng việc kết hợp với một thứ lá gần gũi với người dân ở Mexico. Qua đó mình nhận ra, thiết kế nội địa chẳng phải là thứ gì to tát, nó đều bắt nguồn từ những hình ảnh hết sức đơn giản, mang đậm nét văn hóa, lịch sử bản địa. Nhắc lại lời của anh [Tony Le](https://www.facebook.com/quang.phowr?eid=ARDdFfye9gAnBt9Dhu0F9QOONei9Q1T-Rovs4swm9VyW5i_5l4HBvN5iMlp7K6CYLSwmkPWpee0CEX6l), cách áp dụng như thế này gọi là "same same, but different".
 
-![https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/p720x720/50990939_1142024169299749_3965367378241388544_o.jpg?_nc_cat=100&_nc_sid=32a93c&_nc_ohc=Hxxndg3cta4AX-h8v2h&_nc_ht=scontent.fhan2-4.fna&_nc_tp=6&oh=f12065a04184f599a4190e6e670a2ade&oe=5E916C84](https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/p720x720/50990939_1142024169299749_3965367378241388544_o.jpg?_nc_cat=100&_nc_sid=32a93c&_nc_ohc=Hxxndg3cta4AX-h8v2h&_nc_ht=scontent.fhan2-4.fna&_nc_tp=6&oh=f12065a04184f599a4190e6e670a2ade&oe=5E916C84)
+![](./images/taco.jpg)
 
 Chiếc bánh Taco này sẽ không có gì đặc biệt nếu không được phủ lên một lớp "áo" làm từ loại lá mang đậm văn hóa Mexico. Ảnh do anh VA chụp.
 
-![https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/p720x720/51645235_1142024249299741_588846080775421952_o.jpg?_nc_cat=110&_nc_sid=32a93c&_nc_ohc=LZpTIKsr3fMAX87p2ac&_nc_ht=scontent.fhan2-4.fna&_nc_tp=6&oh=2cceec0bcecf9dedf3ce067e80076d33&oe=5E922FE9](https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/p720x720/51645235_1142024249299741_588846080775421952_o.jpg?_nc_cat=110&_nc_sid=32a93c&_nc_ohc=LZpTIKsr3fMAX87p2ac&_nc_ht=scontent.fhan2-4.fna&_nc_tp=6&oh=2cceec0bcecf9dedf3ce067e80076d33&oe=5E922FE9)
+![](./images/corntree.jpg)
 
 Quốc hồn, quốc túy của người Mexico. Ảnh do anh VA chụp.
 
-![https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/p720x720/51019939_1142076655961167_8844335653949800448_o.jpg?_nc_cat=109&_nc_sid=32a93c&_nc_ohc=He65QmRiwrwAX9DztcS&_nc_ht=scontent.fhan2-3.fna&_nc_tp=6&oh=2797b455c0a10e16771dd32067844029&oe=5E9A1E10](https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/p720x720/51019939_1142076655961167_8844335653949800448_o.jpg?_nc_cat=109&_nc_sid=32a93c&_nc_ohc=He65QmRiwrwAX9DztcS&_nc_ht=scontent.fhan2-3.fna&_nc_tp=6&oh=2797b455c0a10e16771dd32067844029&oe=5E9A1E10)
+![](./images/bonsai.jpg)
 
 Chậu cây với những hình thù lạ mắt ở Mexico. Ảnh do anh VA chụp.
 
@@ -48,7 +48,7 @@ Sau đó, tất cả mọi người trong khán phòng được làm một bài 
 
 Kết quả của bài khảo sát khá thú vị với nhiều sắc màu khác nhau, có người chọn đỏ/vàng vì đó là màu của lá cờ Tổ Quốc, người thì chọn màu hồng/xanh vì đó là màu của lá và bông hoa sen, có ông anh chọn màu nâu vì đó là màu gỗ của những mái đình, mái chùa. Cá nhân mình thì chọn đỏ/xanh lá vì tuổi thơ mình gắn liền với cái điếu cày, với chiếc mũ cối, với những câu chuyện về thời kì chiến tranh của bố và bà, màu xanh lá còn là màu của những khu rừng nhiệt đới rất Việt Nam, hay là màu của những bức tường, cái giếng phủ đầy rêu phong. Còn màu đỏ, đơn giản vì đó là màu của tổ quốc, màu máu, màu của vinh quang, và còn là màu Tết.
 
-![https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/p720x720/51042680_1142024342633065_7045619825879547904_o.jpg?_nc_cat=102&_nc_sid=32a93c&_nc_ohc=KcwRL_BYtToAX-IcJg3&_nc_ht=scontent.fhan2-1.fna&_nc_tp=6&oh=d44a35b5d722a3a901f57553edf0d863&oe=5E971BC0](https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/p720x720/51042680_1142024342633065_7045619825879547904_o.jpg?_nc_cat=102&_nc_sid=32a93c&_nc_ohc=KcwRL_BYtToAX-IcJg3&_nc_ht=scontent.fhan2-1.fna&_nc_tp=6&oh=d44a35b5d722a3a901f57553edf0d863&oe=5E971BC0)
+![](./images/luckymoney.jpg)
 
 Một ví dụ của anh Việt Anh về việc sử dụng Thiết kế mang phong cách Việt Nam. Mỗi người bị "bắt" phải cầm một chiếc lì xì mang về.
 
@@ -60,9 +60,7 @@ Qua bài khảo sát, mình còn được biết thêm nhiều thông tin thú v
 
 Lại một lần nữa, mình được trải nghiệm mô hình thiết kế này, nhưng lần gần đây nhất thì mình chỉ được làm 2/4 quy trình vì không có đủ thời gian cũng như chuẩn bị trước. Mô hình thiết kế nước rút được phân bổ ra làm 5 ngày trong tuần, mỗi ngày là một quá trình làm việc khác nhau để bổ sung cho nhau. Nhưng ở buổi hôm vừa rồi thì mình đã được trải nghiệm cả 5 bước chỉ trong một buổi chiều. Đề bài là tìm cách nào đó để giúp những lọ mứt Tết mà anh Việt Anh mang đến có được thiết kế tốt hơn, mang đậm phong cách Việt Nam hơn.
 
-![https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/p720x720/51604197_1142025149299651_8103307684897357824_o.jpg?_nc_cat=100&_nc_sid=32a93c&_nc_ohc=lOzvNApkT1IAX8RrXos&_nc_ht=scontent.fhan2-4.fna&_nc_tp=6&oh=f8897cab9e1f730fa228c6207e08d52e&oe=5E91014E](https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/p720x720/51604197_1142025149299651_8103307684897357824_o.jpg?_nc_cat=100&_nc_sid=32a93c&_nc_ohc=lOzvNApkT1IAX8RrXos&_nc_ht=scontent.fhan2-4.fna&_nc_tp=6&oh=f8897cab9e1f730fa228c6207e08d52e&oe=5E91014E)
-
-Mọi người đều chăm chú lắng nghe anh Việt Anh chia sẻ.
+![](./images/overview.jpg)
 
 Có một thứ mình học được từ mô hình thiết kế này là cách đặt câu hỏi sao cho đúng, đây là một trong những công việc mà một đội ngũ Thiết kế sẽ phải ngồi với nhau trong ngày đầu tiên của tuần, mẫu câu hỏi là "Làm sao để...", đa số các công ty khởi nghiệp thất bại là vì họ chưa đặt được một câu hỏi đúng. Có 5 yếu tố mà anh Việt Anh chia sẻ để giúp mọi người tự tìm ra vấn đề và đặt câu hỏi đúng:
 
@@ -76,20 +74,18 @@ Sau khi đặt được câu hỏi cho vấn đề của mình, tất cả nhữ
 
 Mỗi người được phát một tờ giấy A4 và gấp thành 8 ô khác nhau. Sau 8 phút, tất cả mọi người bắt buộc phải hoàn thành việc diễn giải ý tưởng vào 8 ô giấy. Người thì mệt mỏi, người thì ruột gan lẫn lộn, người thì vui, người thì phấn khích, nhưng có một điểm chung là ai nấy đều có những ý tưởng của riêng mình.
 
-![https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/p720x720/51479915_1142026235966209_3831377000040235008_o.jpg?_nc_cat=107&_nc_sid=32a93c&_nc_ohc=S8apoVyl5UYAX8pz2hs&_nc_ht=scontent.fhan2-3.fna&_nc_tp=6&oh=4a55eb18316d110520850c52d36aade5&oe=5E97D23A](https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/p720x720/51479915_1142026235966209_3831377000040235008_o.jpg?_nc_cat=107&_nc_sid=32a93c&_nc_ohc=S8apoVyl5UYAX8pz2hs&_nc_ht=scontent.fhan2-3.fna&_nc_tp=6&oh=4a55eb18316d110520850c52d36aade5&oe=5E97D23A)
+![](./images/brainstorm.jpg)
 
 Chia nhóm, thiết kế ý tưởng.
 
 Giả định ngày thứ 2 kết thúc, tất cả mọi người sẽ có một ngày để thảo luận chung với nhau để chọn lấy một ý tưởng tốt nhất để đem nó sang ngày thứ 4. Mọi người cùng nhau dựng lên những bản mẫu theo ý tưởng đã thống nhất sử dụng tất cả những gì có trên bàn: bút, giấy, kéo, keo dán,... Cảm nhận của mình là cực kì phấn khích, bọn mình cố gắng cắt thật nhiều giấy và vẽ những mẫu tem mác mới cho lọ mứt, sau đó dán vòng quanh lọ mứt để trưng bày. Phương pháp điên rồ này đã đem đến những ý tưởng thực sự điên rồ!
 
-![https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/p720x720/51533391_1142026329299533_2693011285628420096_o.jpg?_nc_cat=111&_nc_sid=32a93c&_nc_ohc=SXiC4g2Ou00AX-0Mfcw&_nc_ht=scontent.fhan2-3.fna&_nc_tp=6&oh=3d30ee97ab935ffce34e04149e456e88&oe=5E80C684](https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/p720x720/51533391_1142026329299533_2693011285628420096_o.jpg?_nc_cat=111&_nc_sid=32a93c&_nc_ohc=SXiC4g2Ou00AX-0Mfcw&_nc_ht=scontent.fhan2-3.fna&_nc_tp=6&oh=3d30ee97ab935ffce34e04149e456e88&oe=5E80C684)
+![](./images/braintorm-2.jpg)
 
 Sử dụng mọi thứ trên bàn để thiết kế nhãn mác cho lọ mứt Tết.
 
 Sau đó mọi người tiếp tục được yêu cầu chuyển đến ngày cuối cùng trong mô hình Thiết kế nước rút, đó là bước kiểm tra, đánh giá thiết kế của mình với người dùng. Khán phòng hôm đó như một cửa hàng bán mứt hoa quả và mọi người trong vai khách mua sắm. Từng nhóm sẽ phải giới thiệu về thiết kế của mình cho khách hàng, có nhiều nhóm táo bạo đến nỗi không ngờ như việc thiết kế hộp đựng mứt dừa như một hộp đựng giấy ăn để người dùng có thể kéo ra liên tục, hay là việc thiết kế một hộp đựng mứt nhưng lại dùng sản phẩm bao bì như một hộp đựng thịt trâu gác bếp để bán cho các nhà hàng, giúp khách hàng của họ làm bài kiểm tra độ say cồn, tăng sự thú vị trong bữa ăn.
 
-![https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/p720x720/51737775_1142026539299512_1642663366805684224_o.jpg?_nc_cat=107&_nc_sid=32a93c&_nc_ohc=5wiwd2nG6ZQAX9w6t4h&_nc_ht=scontent.fhan2-3.fna&_nc_tp=6&oh=b6b743a80b09eee7255a32be9103a7cb&oe=5E9A30ED](https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/p720x720/51737775_1142026539299512_1642663366805684224_o.jpg?_nc_cat=107&_nc_sid=32a93c&_nc_ohc=5wiwd2nG6ZQAX9w6t4h&_nc_ht=scontent.fhan2-3.fna&_nc_tp=6&oh=b6b743a80b09eee7255a32be9103a7cb&oe=5E9A30ED)
-
-Tác phẩm của đội anh Tony
+![](./images/meat.jpg)
 
 Kết thúc buổi trình bày về thiết kế cũng là kết thúc về buổi gặp mặt đầy thú vị ấy, ai nấy cũng đều thích thú. Cả đội rủ nhau đi uống ly trà, ăn thử chút Xôi Yến nổi tiếng Hà Nội và chia tay nhau để về quê đón Tết bên gia đình. Một lần nữa cám ơn anh Việt Anh rất nhiều vì buổi chia sẻ đầy cảm hứng này, hi vọng còn được gặp anh nhiều hơn nữa, và hi vọng ngày nào đó Việt Nam sẽ trở thành một cường quốc về thiết kế.

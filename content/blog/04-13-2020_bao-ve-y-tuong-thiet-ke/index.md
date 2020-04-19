@@ -4,7 +4,6 @@ date: "2020-04-13T23:00:00"
 description: "Vài tuần trước, mình nhận được một câu hỏi từ ông anh học cùng lớp thiết kế về việc bảo vệ ý tưởng khi tranh luận với sếp, theo như mình hiểu thì những cuộc tranh luận đó đều kết thúc bằng việc sếp của ông ấy khẳng định 'như thế này mới là chuẩn', ông ấy cũng không biết làm thế nào để bảo vệ ý tưởng của mình hay phản bác lại ý kiến của sếp."
 ---
 
-
 # Mở đầu
 
 Vài tuần trước, mình nhận được một câu hỏi từ ông anh học cùng lớp thiết kế về việc bảo vệ ý tưởng khi tranh luận với sếp, theo như mình hiểu thì những cuộc tranh luận đó đều kết thúc bằng việc sếp của ông ấy khẳng định "như thế này mới là chuẩn", ông ấy cũng không biết làm thế nào để bảo vệ ý tưởng của mình hay phản bác lại ý kiến của sếp.
@@ -17,7 +16,7 @@ Dựa vào mỗi dự án mà nhu cầu của các bên liên quan sẽ khác nh
 
 Một trong những cách tốt nhất để khiến ý tưởng của bạn trở nên thuyết phục chính là kết nối nó trực tiếp tới nhu cầu của doanh nghiệp. Hãy thử trả lời những câu hỏi dưới đây để tự nhìn nhận xem ý tưởng của bạn đã đủ sức thuyết phục hay chưa.
 
-![https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/p720x720/46111162_1088551711313662_5388258526936170496_o.jpg?_nc_cat=103&_nc_sid=32a93c&_nc_ohc=YK73lg-M_ogAX95tUYL&_nc_ht=scontent.fhan2-1.fna&_nc_tp=6&oh=31bb6830e11d6c52250ae8c577950bb5&oe=5E7FE798](https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/p720x720/46111162_1088551711313662_5388258526936170496_o.jpg?_nc_cat=103&_nc_sid=32a93c&_nc_ohc=YK73lg-M_ogAX95tUYL&_nc_ht=scontent.fhan2-1.fna&_nc_tp=6&oh=31bb6830e11d6c52250ae8c577950bb5&oe=5E7FE798)
+![](./images/unsplash.jpeg)
 
 ### Có giúp doanh nghiệp đạt được mục tiêu nào không?
 
@@ -47,7 +46,7 @@ Có thể việc này không ảnh hưởng nhiều đến trải nghiệm chung
 
 Nếu đang làm về sản phẩm, chắc hẳn bạn đã nghe đến câu "Don't reinvent the wheel", có nghĩa là "Đừng cố phát minh lại cái bánh xe". Những tính năng cơ bản, phổ biến trên nhiều ứng dụng, trang web khác nhau đều có một design pattern và best practice chung, công việc của bạn là tìm cách ứng dụng chúng vào sản phẩm của mình sao cho hài hòa với những phần còn lại. Bời vì người dùng không chỉ dành thời gian để sử dụng mỗi sản phẩm của bạn, hàng tá trang web, ứng dụng phổ biến khác có những chức năng tương tự như của bạn và họ đã quen với những thiết kế đó rồi. Việc đi ngược lại với những mẫu thiết kế phổ biến không những chẳng đem về hiệu quả cao mà có thể còn khiến bạn mất đi lượng người dùng đáng kể. Hãy áp dụng việc này vào khi giải thích ý tưởng của bạn cho người khác để thuyết phục họ dễ dàng hơn.
 
-![https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/p720x720/46065309_1088552397980260_602984258415362048_o.jpg?_nc_cat=101&_nc_sid=32a93c&_nc_ohc=pCCiD2ZRyNcAX-6gckx&_nc_ht=scontent.fhan2-1.fna&_nc_tp=6&oh=365bbdf83310edc03bde4a072cb3a2e5&oe=5E984C11](https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/p720x720/46065309_1088552397980260_602984258415362048_o.jpg?_nc_cat=101&_nc_sid=32a93c&_nc_ohc=pCCiD2ZRyNcAX-6gckx&_nc_ht=scontent.fhan2-1.fna&_nc_tp=6&oh=365bbdf83310edc03bde4a072cb3a2e5&oe=5E984C11)
+![](./images/adele.jpeg)
 
 ### Có giúp tăng sự chú ý của người dùng để họ đưa ra hành động?
 
@@ -65,7 +64,7 @@ Có nhiều cách để nghiên cứu và đưa ra những lý luận nhằm thu
 
 Như mình đã nhắc đến trước đó, việc sử dụng những con số mà bạn đo đạc, thu thập được sẽ mang lại sự tin tưởng nhất định từ mọi người trong nhóm và giúp thuyết phục họ dễ dàng hơn. Hầu hết những đội ngũ, công ty làm sản phẩm đều hướng nhân viên của mình đến một khái niệm về tư duy là data-driven, nghĩa là mọi quyết định đưa ra đều dựa trên dữ liệu.
 
-![https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/p720x720/46073984_1088553354646831_551833465662734336_o.jpg?_nc_cat=107&_nc_sid=32a93c&_nc_ohc=SaOyGeXVOysAX_HG9UR&_nc_ht=scontent.fhan2-3.fna&_nc_tp=6&oh=010d8117a714ae0412ecd6b62313d7fa&oe=5E93EA31](https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/p720x720/46073984_1088553354646831_551833465662734336_o.jpg?_nc_cat=107&_nc_sid=32a93c&_nc_ohc=SaOyGeXVOysAX_HG9UR&_nc_ht=scontent.fhan2-3.fna&_nc_tp=6&oh=010d8117a714ae0412ecd6b62313d7fa&oe=5E93EA31)
+![](./images/data.jpeg)
 
 Bạn phải tập làm quen với những công cụ phục vụ mục đích đo đạc và thu thập dữ liệu như Google Analytics, FullStory, HotJar,... để có thể từ đó đưa ra những kết luận mang tính xác thực cao, thuyết phục được mọi người trong nhóm.
 
@@ -79,7 +78,7 @@ Nên nhớ rằng mục đích của bạn là không chỉ đạt được sự
 
 Thu thập dữ liệu là phương pháp nghiên cứu định lượng, đôi khi nó sẽ khiến bạn cảm thấy khá máy móc và bị ràng buộc bởi những con số. Ở một số trường hợp, bạn sẽ cần phải làm những bài kiểm tra để đánh giá mức độ dễ sử dụng của sản phẩm đối với người dùng, kết quả thu được là định tính.
 
-![https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/p720x720/46190006_1088552991313534_9071566228799094784_o.jpg?_nc_cat=104&_nc_sid=32a93c&_nc_ohc=hVG2lz57SDwAX_SR13q&_nc_ht=scontent.fhan2-4.fna&_nc_tp=6&oh=bb87c06e385760b8bdd4f6479a656675&oe=5E99FA8B](https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/p720x720/46190006_1088552991313534_9071566228799094784_o.jpg?_nc_cat=104&_nc_sid=32a93c&_nc_ohc=hVG2lz57SDwAX_SR13q&_nc_ht=scontent.fhan2-4.fna&_nc_tp=6&oh=bb87c06e385760b8bdd4f6479a656675&oe=5E99FA8B)
+![](./images/usability-test.jpeg)
 
 Dựa trên những nghiên cứu về người dùng, hãy trao đổi với mọi người trong nhóm về những gì bạn đã phát hiện ra, giúp họ hiểu được người dùng đang gặp vấn đề ở đâu, khó khăn như thế nào và giải pháp của bạn sẽ giúp ích được gì cho họ, sử dụng những câu chuyện thực tế để giải thích lý do bạn đưa ra những giải pháp đó.
 

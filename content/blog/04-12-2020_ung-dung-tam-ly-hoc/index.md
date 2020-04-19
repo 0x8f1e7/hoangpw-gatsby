@@ -18,13 +18,13 @@ Nội dung của bài viết được chia thành 3 thành phần chính, đầu
 
 Trước tiên thì mình có một vài chia sẻ khá vui, theo như số liệu thống kê vào tháng 10 năm 2011 ở Dubai và Abu Dhabi, tỉ lệ các vụ tai nạn xe hơi nghiêm trọng đã giảm xuống một cách đáng kể, cụ thể là 20% ở Dubai và 40% ở Abu Dhabi, lý do giải thích cho việc này không phải vì mọi người có ý thức tham gia giao thông tốt hơn hay gì cả, mà là bởi vì hệ thống nhắn tin của BlackBerry đã bị sập và mất 48 tiếng đồng hồ để hoạt động trở lại. Điều này lý giải rằng con người thường không giỏi trong việc làm cả 2 thứ cùng một lúc, cụ thể là sử dụng điện thoại khi tham gia giao thông. Mặt khác, mọi người đang quá tự tin vào việc có thể làm tốt được cả 2 thứ trong cùng một thời điểm.
 
-![https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/p720x720/43131413_1065578236944343_383485217404354560_o.jpg?_nc_cat=109&_nc_sid=32a93c&_nc_ohc=7v0TLYMuQlgAX9kMitA&_nc_ht=scontent.fhan2-3.fna&_nc_tp=6&oh=7fff66fca8b195bb6eb6796ebb79f8c3&oe=5E95B50D](https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/p720x720/43131413_1065578236944343_383485217404354560_o.jpg?_nc_cat=109&_nc_sid=32a93c&_nc_ohc=7v0TLYMuQlgAX9kMitA&_nc_ht=scontent.fhan2-3.fna&_nc_tp=6&oh=7fff66fca8b195bb6eb6796ebb79f8c3&oe=5E95B50D)
+![](./images/blackberry.jpg)
 
 Dịch vụ của BlackBerry sống lại sau khi bị sập
 
 Một ví dụ khác là việc theo dõi chương trình American’s Got Talent ở Mỹ, có tới 40% người trong tổng số những ai sử dụng thiết bị công nghệ bao gồm điện thoại, máy tính bảng, laptop vừa xem TV, vừa... sử dụng chúng.
 
-![https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/43086317_1065578376944329_5882767802833567744_n.jpg?_nc_cat=103&_nc_sid=32a93c&_nc_ohc=JQFwsnMpAk0AX_DY9VH&_nc_ht=scontent.fhan2-1.fna&oh=819230f9688c500c5b59b20d0763f768&oe=5E921B55](https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/43086317_1065578376944329_5882767802833567744_n.jpg?_nc_cat=103&_nc_sid=32a93c&_nc_ohc=JQFwsnMpAk0AX_DY9VH&_nc_ht=scontent.fhan2-1.fna&oh=819230f9688c500c5b59b20d0763f768&oe=5E921B55)
+![](./images/gottalent.jpg)
 
 Chương trình Tìm kiếm tài năng nổi tiếng
 
@@ -32,7 +32,7 @@ Những ví dụ trên chỉ ra rằng các sản phẩm đó chưa được thi
 
 ### Sự mệt mỏi
 
-![https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/p720x720/43007700_1065578520277648_7010498254802518016_o.jpg?_nc_cat=103&_nc_sid=32a93c&_nc_ohc=viVHeBf76uIAX-STsAR&_nc_ht=scontent.fhan2-1.fna&_nc_tp=6&oh=882cd10d75e99618091a418069b21f7e&oe=5E8F2083](https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/p720x720/43007700_1065578520277648_7010498254802518016_o.jpg?_nc_cat=103&_nc_sid=32a93c&_nc_ohc=viVHeBf76uIAX-STsAR&_nc_ht=scontent.fhan2-1.fna&_nc_tp=6&oh=882cd10d75e99618091a418069b21f7e&oe=5E8F2083)
+![](./images/decision-making.jpg)
 
 Biểu đồ thể hiện sự liên quan giữa tỉ lệ đưa ra quyết định tốt và thời điểm trong ngày
 
@@ -42,7 +42,7 @@ Biểu đồ trên thể hiện sự liên quan giữa tỉ lệ những quyết
 
 Ngoài ra, sự mệt mỏi còn khiến con người trở nên “lười biếng” hơn, bạn không thể nào tập trung vào công việc nếu cả ngày mệt mỏi, nhức đầu phải không? Động lực làm việc của bạn sẽ bị giảm đi một cách đáng kể và khiến bạn không thể đạt được hiệu suất làm việc cao khi đang rất mệt mỏi.
 
-![https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/43146459_1065578660277634_2458767110789136384_n.jpg?_nc_cat=101&_nc_sid=32a93c&_nc_ohc=EdrAdMLPQn8AX_3Kblc&_nc_ht=scontent.fhan2-1.fna&oh=71adb7f16aa05142934e6a2b625621d3&oe=5E92C922](https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/43146459_1065578660277634_2458767110789136384_n.jpg?_nc_cat=101&_nc_sid=32a93c&_nc_ohc=EdrAdMLPQn8AX_3Kblc&_nc_ht=scontent.fhan2-1.fna&oh=71adb7f16aa05142934e6a2b625621d3&oe=5E92C922)
+![](./images/maslow.jpg)
 
 Tháp nhu cầu của Maslow
 
@@ -52,7 +52,7 @@ Tháp nhu cầu của Maslow
 
 Tất cả mọi người đều thích được quyền lựa chọn, đó là điểu hiển nhiên rồi còn gì, nhiều sự lựa chọn giúp họ cân đo đong đếm và quyết định lấy một thứ mà mình cảm thấy thích hoặc phù hợp nhất, và đôi khi những sự lựa chọn này khiến họ bối rối và không biết phải làm gì. Một ví dụ về việc thiết kế logo cho khách hàng, khi bạn hỏi khách hàng muốn xem 5 hay là 10 tùy chọn, thì đương nhiên là họ sẽ chọn con số 10, nhưng thực tế cho thấy rằng trường hợp bạn đưa cho khách hàng 5 lựa chọn sẽ giúp bạn nhanh có hợp đồng hoặc thu được chi phí từ khách hàng hơn là 10 lựa chọn, những gì mọi người nói với bạn thường trái ngược lại so với những gì họ sẽ làm. Do đó bạn cần phải theo dõi cách người dùng của mình làm những gì hơn là chỉ đưa cho họ những câu hỏi và bắt họ lựa chọn.
 
-![https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/43059012_1065578766944290_5420659236231184384_n.jpg?_nc_cat=111&_nc_sid=32a93c&_nc_ohc=7-u-agF7d3cAX_loEzU&_nc_ht=scontent.fhan2-3.fna&oh=0abb81f7a008d2c4762c5b4ed802b9f3&oe=5E9702E7](https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/43059012_1065578766944290_5420659236231184384_n.jpg?_nc_cat=111&_nc_sid=32a93c&_nc_ohc=7-u-agF7d3cAX_loEzU&_nc_ht=scontent.fhan2-3.fna&oh=0abb81f7a008d2c4762c5b4ed802b9f3&oe=5E9702E7)
+![](./images/choice.jpg)
 
 Lựa chọn như thế nào? — ảnh Google
 
@@ -62,7 +62,7 @@ Một ví dụ về việc đưa cho người dùng những sự lựa chọn, c
 
 Bộ não của con người hoạt động khá phức tạp, thông thường thì bạn sẽ không nhớ một thứ gì đó chính xác mà sẽ thông qua việc liên kết một phần thông tin nhớ được với những thứ khác. Ví dụ như ngày xưa học Hóa học, việc học thuộc thứ tự trong dãy hoạt động hóa học của kim loại là cực kì khó vì bạn phải nhớ tên của các nguyên tố hóa học bằng những kí tự chữ cái không có nghĩa, nhưng với việc gán chúng vào các từ và ghép thành một câu văn có nghĩa sẽ giúp bạn nhớ dãy hoạt động hóa học này dễ dàng hơn và cũng khó quên hơn.
 
-![https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/43062100_1065581233610710_3231708872989212672_o.jpg?_nc_cat=100&_nc_sid=32a93c&_nc_ohc=j58tBN7Wj8cAX-pzryX&_nc_ht=scontent.fhan2-4.fna&oh=4e0e5e0c42717b46f731685e505ceba6&oe=5E94F18C](https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/43062100_1065581233610710_3231708872989212672_o.jpg?_nc_cat=100&_nc_sid=32a93c&_nc_ohc=j58tBN7Wj8cAX-pzryX&_nc_ht=scontent.fhan2-4.fna&oh=4e0e5e0c42717b46f731685e505ceba6&oe=5E94F18C)
+![](./images/chemistry.jpg)
 
 Dãy hoạt động hóa học của kim loại — ảnh Khuất Văn Quyên
 
@@ -72,7 +72,7 @@ Tuy nhiên việc ghi nhớ như vậy vẫn có thể được tôi luyện và
 
 Khi áp dụng việc ghi nhớ vào thiết kế trải nghiệm người dùng, bạn cần để ý đến 2 loại tri thức là tri thức có sẵn và tri thức tự tạo ra. Để dễ hiểu, hãy lấy một ví dụ là màn hình mở khóa của 2 nền tảng điện thoại iOS và Android, trên các thiết bị iOS, mọi người thường sử dụng mật khẩu dạng mã kí tự, còn trên các thiết bị Android thì mọi người thường sử dụng mật khẩu dạng nối nối. Theo mình thấy thì phương pháp trên các thiết bị Android sẽ tốt hơn vì mật khẩu đó do chính người dùng tạo ra, các bước nối giữa các điểm trên màn hình có sự liên quan với nhau và nó dễ nhớ hơn so với việc phải nhớ lại từng kí tự chữ cái, con số như phương pháp của iOS. Do đó khi sử dụng mật khẩu dạng mã kí tự, người dùng thường sử dụng các mật khẩu rất dễ nhớ như 123456, QWERTY,… các kí tự nối tiếp nhau theo trình tự logic nhất định và nó giúp họ dễ nhớ hơn.
 
-![https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/p720x720/43021730_1065581406944026_555834704440328192_o.jpg?_nc_cat=110&_nc_sid=32a93c&_nc_ohc=nPfPOkiskEsAX8Y_ypZ&_nc_ht=scontent.fhan2-4.fna&_nc_tp=6&oh=1d6d9ade113f231343ca91e4f3d6abd1&oe=5E906569](https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/p720x720/43021730_1065581406944026_555834704440328192_o.jpg?_nc_cat=110&_nc_sid=32a93c&_nc_ohc=nPfPOkiskEsAX8Y_ypZ&_nc_ht=scontent.fhan2-4.fna&_nc_tp=6&oh=1d6d9ade113f231343ca91e4f3d6abd1&oe=5E906569)
+![](./images/unlocking.jpg)
 
 Màn hình mở khóa của iOS và Android — ảnh Google
 
@@ -84,13 +84,13 @@ Những ví dụ về vị trí hiển thị của logo, hộp công cụ tìm k
 
 Có 2 ví dụ nổi tiếng về việc thiết kế mô hình kinh doanh dựa trên trải nghiệm của người dùng là những quán cà phê truyền thống ở Paris và những quán cà phê Starbucks. Ở những quán cà phê truyền thống, bạn chỉ việc đến đó tìm chỗ ngồi và chờ bồi bàn đến tận nơi order đồ uống, nhưng ở những quán Starbucks, bạn sẽ phải xếp hàng để order đồ uống và thanh toán cho đồ uống ngay lúc đó.
 
-![https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/43089990_1065581500277350_4956207588875173888_o.jpg?_nc_cat=104&_nc_sid=32a93c&_nc_ohc=UXs51xv6R04AX97aLRX&_nc_ht=scontent.fhan2-4.fna&oh=16eb8a52ca69d547bbe9030cb24f38ef&oe=5E8F7951](https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/43089990_1065581500277350_4956207588875173888_o.jpg?_nc_cat=104&_nc_sid=32a93c&_nc_ohc=UXs51xv6R04AX97aLRX&_nc_ht=scontent.fhan2-4.fna&oh=16eb8a52ca69d547bbe9030cb24f38ef&oe=5E8F7951)
+![](./images/cafe.jpg)
 
 Một quán cafe nổi tiếng tại Paris — ảnh Google
 
 Ở Paris, nếu bạn đến một quán cà phê truyền thống và bồi bàn biết rằng bạn không biết nói tiếng Pháp, khi order đồ uống thì họ sẽ yêu cầu bạn thanh toán ngay tại chỗ, còn nếu bạn nói tiếng Pháp thì họ sẽ chờ khi nào bạn đứng dậy mới tới thu tiền, cá nhân mình rất thích cách cá nhân hóa trải nghiệm ở đây. Còn ở Starbucks, thử tưởng tượng nếu bạn là người Pháp hoặc chưa biết đến mô hình kiểu này bao giờ, cá là bạn sẽ cảm thấy rất quê khi ngồi mãi mà chả thấy ai ra order đồ uống.
 
-![https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/43108009_1065581590277341_7016696893338025984_n.jpg?_nc_cat=100&_nc_sid=32a93c&_nc_ohc=kFRIy088SHMAX-qoMFV&_nc_ht=scontent.fhan2-4.fna&oh=4a54fdc288c40bf1fb286329ef6cb677&oe=5E949361](https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/43108009_1065581590277341_7016696893338025984_n.jpg?_nc_cat=100&_nc_sid=32a93c&_nc_ohc=kFRIy088SHMAX-qoMFV&_nc_ht=scontent.fhan2-4.fna&oh=4a54fdc288c40bf1fb286329ef6cb677&oe=5E949361)
+![](./images/starbucks.jpg)
 
 Hình ảnh xếp hạng đặt đồ tại Starbucks — ảnh Google
 
